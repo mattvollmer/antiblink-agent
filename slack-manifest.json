@@ -1,7 +1,7 @@
 {
   "display_information": {
     "name": "RedTeam",
-    "description": "RedTeam Slack agent"
+    "description": "A harmless Slack agent whose purpose is to annoy Blink and to test prompt exposure vulnerabilities."
   },
   "features": {
     "app_home": {
@@ -14,7 +14,7 @@
       "always_online": true
     },
     "assistant_view": {
-      "assistant_description": "A Slack agent for red-team prompt exposure testing"
+      "assistant_description": "A harmless Slack agent whose purpose is to annoy Blink and to test prompt exposure vulnerabilities."
     }
   },
   "settings": {
