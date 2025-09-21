@@ -1,0 +1,13 @@
+{
+  "name": "antiblink-agent",
+  "main": "agent.ts",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@blink-sdk/slackbot": "^0.0.5",
+    "ai": "^5.0.48",
+    "blink": "^0.1.34",
+    "esbuild": "^0.25.10",
+    "zod": "^4.1.11"
+  }
+}
